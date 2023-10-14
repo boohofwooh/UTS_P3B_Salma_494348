@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UTS P3B</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Dashboard</string>
+    <string name="second_fragment_label">Pemesanan Tiket</string>
+    <string name="order">Pesan Tiket</string>
+    <string name="save">Pesan</string>
+</resources>
